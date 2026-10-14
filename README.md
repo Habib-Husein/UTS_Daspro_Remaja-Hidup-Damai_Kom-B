@@ -4,9 +4,9 @@ by Kelompok : Remaja Hidup Damai
 
 Program konsol berbahasa Pascal untuk melatih pengguna mengenali berita hoax. Proyek UTS Dasar Pemrograman DP3, Semester Ganjil T.A. 2026/2027, Program Studi Ilmu Komputer, Universitas Sumatera Utara.
 
+Dari Kom B dan Lab 3
 Anggota Kelompok: 
-    Nama	                 NIM     KOM	Lab
-Habib Husein	          261401022	  B	   3
+Habib Husein	          261401022	   
 Victor Chaste Nababan	  261401064  	B	   3
 Dzikri Bagus	          261401025  	B	   3
 
