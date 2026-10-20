@@ -14,7 +14,7 @@ Proyek UTS Dasar Pemrograman DP3, Semester Ganjil T.A. 2026/2027, Program Studi 
 |------|-----|-----|-----|
 | Habib Husein | 261401022 | B | 3 |
 | Victor Chaste Nababan | 261401064 | B | 3 |
-| Dzikri Bagus | 261401025 | B | 3 |
+| Dzikri Bagus Nugroho | 261401025 | B | 3 |
 
 ---
 
