@@ -1,4 +1,4 @@
-{$H+}
+{ Kelompok Remaja Hidup Damai}
 program HoaxHunter;
 uses crt;
 
